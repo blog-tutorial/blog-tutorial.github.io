@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My Awesome Blog</title><link>http://example.org/</link><description>Recent content on My Awesome Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>© Awesome Blogger</copyright><lastBuildDate>Tue, 24 May 2022 16:41:43 +0300</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>First Post</title><link>http://example.org/post/first-post/</link><pubDate>Tue, 24 May 2022 16:41:43 +0300</pubDate><guid>http://example.org/post/first-post/</guid><description>This README can be used as a reference for github-flavored-markdown styling (and possibly behavior) H1 followed by some text
+H2 followed by some text
+H3 followed by some text
+H4 followed by some text
+H5 followed by some text
+H6 followed by some text
+Auto-detected link: http://www.france.com
+Some Ignored_multiple_underscore_italics here
+A line of normal text with inline code and italics, strong font, and even some μ†ℱ ╋ℯ╳╋. Followed by lots of Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description></item></channel></rss>
