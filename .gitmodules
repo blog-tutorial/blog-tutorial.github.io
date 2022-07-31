@@ -1,0 +1,3 @@
+[submodule "themes/baseet"]
+	path = themes/baseet
+	url = https://github.com/Ghamza-Jd/baseet.git

@@ -1,0 +1,36 @@
+{
+  "baseURL": "http://example.org/",
+  "languageCode": "en-us",
+  "title": "My Awesome Blog",
+  "theme": "baseet",
+  "copyright": "© Awesome Blogger",
+  "params": {
+    "useCDN": true,
+    "social": [
+      {
+        "name": "GitHub",
+        "icon": "github",
+        "url": "https://github.com/Ghamza-Jd"
+      },
+      {
+        "name": "rss",
+        "icon": "rss",
+        "url": "https://blog.ghamza.dev/index.xml"
+      }
+    ]
+  },
+  "menu": {
+    "main": [
+      {
+        "name": "Archives",
+        "url": "/posts",
+        "weight": 1
+      },
+      {
+        "name": "Tags",
+        "url": "/tags",
+        "weight": 2
+      }
+    ]
+  }
+}
